@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gandhi56
 - 👀 I’m interested in ... compilers and computer architecture
-- 🌱 I’m currently learning ... ASIC design and compiler optimizations
+- 🌱 I’m currently learning ... GPU architecture and compiler optimizations
 - 📫 How to reach me ... gandhi21299@gmail.com
 
 <!---
