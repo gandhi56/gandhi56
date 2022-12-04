@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gandhi56
 - 👀 I’m interested in ... compilers and computer architecture
-- 🌱 I’m currently learning ... MLIR development
+- 🌱 I’m currently learning ... MLIR
 - 📫 How to reach me ... gandhi21299@gmail.com
 
 <!---
