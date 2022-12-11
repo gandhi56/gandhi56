@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gandhi56
 - 👀 I’m interested in ... compilers and computer architecture
-- 🌱 I’m currently learning ... MLIR
+- 🌱 I’m currently learning ... polyhedral optimizations in LLVM
 - 📫 How to reach me ... gandhi21299@gmail.com
 
 <!---
